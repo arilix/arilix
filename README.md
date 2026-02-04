@@ -24,8 +24,5 @@ I'm open to collaborating on:
 - Data Sciene / Machine Learning
 - ROS 2 & Gazebo
 - Linux setup & debugging
-- Git & GitHub workflows
 
-### 📫 How to reach me
-- GitHub: **@arilix**
 
