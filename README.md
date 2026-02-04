@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**arilix/arilix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Arifin** — a tech enthusiast who enjoys building, experimenting, and breaking things (then fixing them again 😄).
 
-Here are some ideas to get you started:
+### 🔧 What I'm working on
+- Embedded systems (ESP32, Arduino, Raspberry Pi)
+- Robotics & automation
+- ROS 2, Gazebo, and ArduPilot experiments
+- Linux-based development workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm learning
+- Advanced robotics simulation
+- Control systems & UAV concepts
+- Clean code & better project documentation
+
+### 🤝 Collaboration
+I'm open to collaborating on:
+- Robotics & IoT projects  
+- Open-source tools related to embedded systems  
+- Anything fun and technically challenging
+
+### 💬 Ask me about
+- Arduino / Jetson / Raspberry
+- Data Sciene / Machine Learning
+- ROS 2 & Gazebo
+- Linux setup & debugging
+- Git & GitHub workflows
+
+### 📫 How to reach me
+- GitHub: **@arilix**
+
