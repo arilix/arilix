@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Arifin** — a tech enthusiast who enjoys building, experimenting, and breaking things (then fixing them again 😄).
+I'm **Arifin** — a tech enthusiast who enjoys building, and experimenting.
 
 ### 🔧 What I'm working on
 - Embedded systems (ESP32, Arduino, Raspberry Pi)
