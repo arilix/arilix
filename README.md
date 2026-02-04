@@ -3,7 +3,7 @@
 I'm **Arifin** — a tech enthusiast who enjoys building, and experimenting.
 
 ### 🔧 What I'm working on
-- Embedded systems (ESP32, Arduino, Raspberry Pi)
+- Embedded systems (ESP32, Arduino, Raspberry Pi, Jetson)
 - Robotics & automation
 - ROS 2, Gazebo, and ArduPilot experiments
 - Linux-based development workflows
