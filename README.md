@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Arifin** — a tech enthusiast who enjoys building, and experimenting.
+I'm **Arifin** .
 
 AI/ML Enginer, 
 
