@@ -9,10 +9,6 @@
   <img src="media/neuralnetwork.gif" alt="Neural Network" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="media/matrix.gif" alt="Matrix" width="60%"/>
-</p>
-
 ---
 
 ### 🚀 About Me
