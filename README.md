@@ -5,10 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=arilix&label=Profile%20views&color=0e75b6&style=flat" alt="arilix" />
 </p>
 
-<div align="center">
-  <img src="media/neuralnetwork.gif" alt="Neural Network" width="45%" style="display: inline-block; margin: 10px;"/>
-  <img src="media/matrix.gif" alt="Matrix" width="45%" style="display: inline-block; margin: 10px;"/>
-</div>
+<p align="center">
+  <img src="media/neuralnetwork.gif" alt="Neural Network" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="media/matrix.gif" alt="Matrix" width="60%"/>
+</p>
 
 ---
 
@@ -55,8 +58,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arilix&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
