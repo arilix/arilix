@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="media/neuralnetwork.gif" alt="Neural Network" width="45%" style="display: inline-block; margin: 10px;"/>
-  <img src="media/matrix.gif" alt="Matrix" width="38%" style="display: inline-block; margin: 10px;"/>
+  <img src="media/matrix.gif" alt="Matrix" width="35%" style="display: inline-block; margin: 10px;"/>
 </p>
 
 ---
