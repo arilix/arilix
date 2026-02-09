@@ -11,13 +11,13 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🤖 I'm passionate about **AI/ML, Computer Vision, and Robotics**
-- 🔭 Currently working with **ROS (Robot Operating System)**
-- 🌱 Always learning and exploring new technologies
-- 💻 Backend development enthusiast
-- 🎯 Goal: Build intelligent autonomous systems
+- I'm passionate about **AI/ML, Computer Vision, and Robotics**
+- Currently working with **ROS (Robot Operating System)**
+- Always learning and exploring new technologies
+- Backend development enthusiast
+- Goal: Build intelligent autonomous systems
 
 ---
 
