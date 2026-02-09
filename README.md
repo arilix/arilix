@@ -17,7 +17,7 @@
 - I'm passionate about **AI/ML, Computer Vision, and Robotics**
 - Currently working with **ROS (Robot Operating System)**
 - Always learning and exploring new technologies
-- Backend development enthusiast
+- Backend development
 - Goal: Build intelligent autonomous systems
 
 ---
